@@ -20,3 +20,4 @@ This project is Responsive Landing page. Which changes the navigation bar colour
 - JavaScript
 - AOS Github plugin
 
+# For images you can find it in tags of this repository. Tage name: task_01_Media
